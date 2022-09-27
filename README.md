@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Minji!
-- I’m interested in coding (duh), reading, and music
-- I’m currently working on Java, Python, and web design (html css js)
+- I enjoy coding, reading, and music
+- I usually code in Java and Python but I can do some front end stuff as well as C
 - 📫 How to reach me :D
 - discord: Minji#2889
 - insta: @minjikim_0925
