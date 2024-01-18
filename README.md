@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Minji!
-- I enjoy coding, reading, and music
-- I usually code in Java and Python but I can do some front end stuff as well as C
+- I enjoy coding, reading, running, and music
+- I usually code in Java and Python but I can do some front end stuff as well as C and MySQL
 - 📫 How to reach me :D
-- discord: Minji#2889
+- discord: minji_eats_icecream
 - insta: @minjikim_0925
