@@ -2,5 +2,6 @@
 - I enjoy coding, reading, running, and music
 - I usually code in Java and Python but I can do some front end stuff as well as C and MySQL
 - 📫 How to reach me :D
+- linkedin: linkedin.com/in/minji-kim-4a962a23b
 - discord: minji_eats_icecream
 - insta: @minjikim_0925
